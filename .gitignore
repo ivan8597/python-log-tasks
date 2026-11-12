@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+auto_renewal_result.txt
+weekdays.txt
