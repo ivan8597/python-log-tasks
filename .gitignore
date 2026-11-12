@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 auto_renewal_result.txt
 weekdays.txt
+platform_city_results.txt
